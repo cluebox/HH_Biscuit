@@ -1,0 +1,24 @@
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\bin\Debug\Parsing-HH.exe.config
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\bin\Debug\Parsing-HH.exe
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\bin\Debug\Parsing-HH.pdb
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\bin\Debug\SpssLib.dll
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\bin\Debug\SpssLib.xml
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\obj\Debug\Parsing-HH.csprojResolveAssemblyReference.cache
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\obj\Debug\Parsing-HH.exe
+D:\Dotnet project\demo\Parsing-HH\Parsing-HH\obj\Debug\Parsing-HH.pdb
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\bin\Debug\Parsing-HH.exe.config
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\obj\Debug\Parsing-HH.exe
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\obj\Debug\Parsing-HH.pdb
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\bin\Debug\Parsing-HH.exe
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\bin\Debug\Parsing-HH.pdb
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\bin\Debug\SpssLib.dll
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\bin\Debug\SpssLib.xml
+D:\Dotnet project\HH\Parsing-HH\Parsing-HH\obj\Debug\Parsing-HH.csprojResolveAssemblyReference.cache
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\bin\Debug\Parsing-HH.exe.config
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\obj\Debug\Parsing-HH.exe
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\obj\Debug\Parsing-HH.pdb
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\obj\Debug\Parsing-HH.csprojResolveAssemblyReference.cache
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\bin\Debug\Parsing-HH.exe
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\bin\Debug\Parsing-HH.pdb
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\bin\Debug\SpssLib.dll
+E:\E\Projects-Mayora\HH-Parsing ALL\HH_Biscuit\Parsing-HH new recently used\Parsing-HH\bin\Debug\SpssLib.xml
